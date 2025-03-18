@@ -1,2 +1,2 @@
 # nidhi
-My first git hub Repu
+My first git hub Repo
